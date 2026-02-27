@@ -1,0 +1,11 @@
+def tentukan_positif_negatif():
+    angka = float (input("masukan sebuah angka"))
+    if angka > 0 :
+        print("positif")
+    if angka < 0 :
+        print("negatif")
+    else :
+        print("nol")
+
+tentukan_positif_negatif                
+    
