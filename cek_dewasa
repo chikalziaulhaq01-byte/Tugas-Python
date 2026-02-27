@@ -1,0 +1,8 @@
+def cek_dewasa() :
+    umur =int(input("masukkan umur"))
+    if umur > 17 :
+        print("dewasa")
+    else :
+        print("belum dewasa")
+
+cek_dewasa      
