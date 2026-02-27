@@ -1,0 +1,12 @@
+def hitung_diskon() :
+    harga =float(input("masukkan haarga barang"))
+if harga > 100.000 :
+    diskon = 0.10 * harga
+    total + harga - diskon 
+    print("diskon 10 % = {diskon:. 2f}" )
+    print("total yang harus di bayar = {total :. 2f}")
+else :
+    print("tidak ada diskon")
+    print("total yang harus di bayar = {harga :2f}") 
+
+hitung_diskon
