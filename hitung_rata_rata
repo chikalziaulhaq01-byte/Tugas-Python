@@ -1,0 +1,10 @@
+def hitung_rata_rata():
+    n1 = float(input("masukkan nilai pertama :"))
+    n2 = float(input("masukkan nilai kedua :"))
+    n3 = float(input("masukkan nilai ketiga :"))
+
+    rata = (n1+n2+n3) / 3
+    print("rata-rata = {rata:. 2f}")
+
+hitung_rata_rata     
+                   
